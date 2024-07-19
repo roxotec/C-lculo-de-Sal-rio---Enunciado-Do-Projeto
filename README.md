@@ -24,7 +24,7 @@ de 2.826,66 até 3.751,05	15%
 de 3.751,06 até 4.664,68	22,50%
 Acima de 4.664,68	27,50%
 
-Resolução de codigo
+Resolução de codigo:
 
 import java.util.Scanner;
 
